@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: >-
       Hi, I’m Malcolm. I aim to create the best service to help my clients
-      thrive online
+      thrive online.
     subtitle: >-
       I will handle your website design and production, social media accounts
       and digital advertisements for you, at an affordable price.
